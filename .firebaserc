@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "my-recipes-7f26f": {
+      "hosting": {
+        "app": [
+          "my-recipes-7f26f"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "my-recipes-7f26f"
+  }
+}
